@@ -1,0 +1,34 @@
+body{
+    background-image: url("../img/login-bg.jpg") !important;
+   background-size: 100% 100%;
+}
+
+.Aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Aligner-item {
+  flex: 1;
+}
+
+.logo-block{
+    padding-top: 22px;
+}
+.logo-block img{
+    width: 280px;
+}
+
+.login-block{
+    border-left: 2px solid #C1C1C1;
+    padding: 20px;
+}
+
+.btn-login{
+    margin-top: 20px; 
+}
+
+.btn-login input{
+    background-color: gray; 
+}

@@ -1,0 +1,16 @@
+.table>thead>tr>th
+{
+    color: #fffdfd !important;
+}
+
+.error-message {
+    color: red;
+}
+
+.success-message {
+    color: green;
+}
+
+.task-button {
+    text-align:center;
+}
